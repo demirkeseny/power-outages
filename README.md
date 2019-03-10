@@ -24,7 +24,7 @@ Twitter’s free API will only return the past 7 days of tweets. Location data f
 
 Natural language processing presents a challenge. People do tweet about locations of power outages, but in varied ways: a specific street address with no city, city with no state, a neighborhood or region name, abbreviations (`brklyn` for Brooklyn), etc.
 ## Materials
-### Data
+### Data 
 
 Under *raw-data* file there are the initial CSV files that we cleaned and transformed to derive the files under the *data* file. Under the *raw-data*, there are the files that are scraped from each state in New England, the utility companies that are operating nationwide and record of all power outages in the last 15 years.
 
