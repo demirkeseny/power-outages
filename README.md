@@ -1,7 +1,7 @@
 # #poweroutages
 ## Team Members
 - Dawn Graham | [dawngraham.github.io](https://dawngraham.github.io/)
-- Sharnique Beck | [github.com/sharnb](https://github.com/sharnb)
+- Sharnique Beck | [github.com/sharnb](https://github.com/sharnb) 
 - Yalim Demirkesen | [github.com/demirkeseny](https://github.com/demirkeseny)
 
 ## Problem Statement
